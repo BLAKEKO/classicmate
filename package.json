@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "dependencies": {
+    "actions-on-google": "^2.12.0"
+  }
+}
